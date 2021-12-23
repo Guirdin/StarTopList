@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Dark Revan",
+    "description": "Revan est un personnage fictif de l'univers étendu de Star Wars, apparaissant pour la première fois dans le jeu vidéo Star Wars: Knights of the Old Republic de BioWare. Son histoire se déroule 40 siècles avant celle racontée dans les films.",
+    "img": "img/starWars/darkRevan.jpg",
+    "link": "https://fr.wikipedia.org/wiki/Revan"
+  },
+  {
+    "name": "Dark Malak",
+    "description": "Dark Malak, initialement connu sous le nom d'Alek Squinquargesimus, était un humain Jedi qui devint le Seigneur Noir des Sith durant la Guerre Civile des Jedi.",
+    "img": "img/starWars/darkMalak.jpg",
+    "link": "https://starwars.fandom.com/fr/wiki/Dark_Malak"
+  }
+  
+]

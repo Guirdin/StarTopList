@@ -1,0 +1,15 @@
+{
+  "name": "Star List",
+  "short_name": "starList",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [{
+    "src": "./img/logos/deathStar144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "./img/logos/deathStar50.png",
+    "sizes": "50x50",
+    "type": "image/png"
+  }]
+}
